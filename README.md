@@ -32,10 +32,21 @@ Bots Discord · Web · et en ce moment : un jeu Roblox 🎮
 
 <div align="center">
 
-[![Discord Widget](https://github-readme-stats.vercel.app/api/pin/?username=shizeh&repo=discord-widgets&theme=tokyonight&hide_border=true)](https://github.com/shizeh/discord-widgets)
-[![Roblox Tycoon](https://github-readme-stats.vercel.app/api/pin/?username=shizeh&repo=roblox_tycoon&theme=tokyonight&hide_border=true)](https://github.com/shizeh/roblox_tycoon)
+[![discord-widgets](https://github-readme-stats.vercel.app/api/pin/?username=shizeh&repo=discord-widgets&theme=tokyonight&hide_border=true)](https://github.com/shizeh/discord-widgets)
+[![discord-quests-database](https://github-readme-stats.vercel.app/api/pin/?username=shizeh&repo=discord-quests-database&theme=tokyonight&hide_border=true)](https://github.com/shizeh/discord-quests-database)
 
 </div>
+
+<!--
+  ─────────────────────────────────────────────────────────────
+  POUR AJOUTER LA CARTE DU TYCOON PLUS TARD :
+  Une fois le repo créé ET public, décommente la ligne ci-dessous
+  en remplaçant NOM_EXACT par le nom exact du repo
+  (attention aux tirets vs underscores, et aux majuscules).
+
+  [![tycoon](https://github-readme-stats.vercel.app/api/pin/?username=shizeh&repo=NOM_EXACT&theme=tokyonight&hide_border=true)](https://github.com/shizeh/NOM_EXACT)
+  ─────────────────────────────────────────────────────────────
+-->
 
 ---
 
@@ -43,19 +54,15 @@ Bots Discord · Web · et en ce moment : un jeu Roblox 🎮
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shizeh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=shizeh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=shizeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-![Streak](https://streak-stats.demolab.com?user=shizeh&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💭 Ma philosophie
 
 *« Je préfère un projet fini et moche qu'un projet parfait jamais commencé. »*
 
