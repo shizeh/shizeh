@@ -10,15 +10,6 @@ Bots Discord · Web · et en ce moment : un jeu Roblox 🎮
 
 ---
 
-## 🚀 En ce moment
-
-- 🔨 Je développe **un tycoon sur Roblox** — ma première vraie plongée dans le Luau
-- 🌱 J'apprends le **Luau** en construisant plutôt qu'en lisant
-- 📖 J'ai écrit un guide sur les **widgets Discord personnalisés** qui a aidé pas mal de monde
-- 💬 Parle-moi de bots Discord, de gamedev ou de projets bizarres
-
----
-
 ## 🧰 Ma stack
 
 <div align="center">
