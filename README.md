@@ -75,17 +75,6 @@ Une base de données recensant les **Discord Quests**, maintenue à jour.
 
 ---
 
-## 🏆 Trophées
-
-<!-- ══════ TROPHÉES — service : github-profile-trophy ══════ -->
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=shizeh&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8)](https://github.com/shizeh)
-
-</div>
-
----
-
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shizeh&style=for-the-badge&color=9B5DE5&labelColor=1a1b27&label=VISITEURS)](https://github.com/shizeh)
