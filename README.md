@@ -1,10 +1,18 @@
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║  Chaque bloc indique le SERVICE qui le génère.                       ║
+║  Si un jour un bloc affiche une erreur, c'est que CE service est     ║
+║  en panne : supprime juste ce bloc, le reste continue de marcher.    ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+
+<!-- ══════ BANNIÈRE — service : capsule-render ══════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,35:00BBF9,70:9B5DE5,100:F15BB5&height=180&section=header&text=shizeh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32" />
+
+<!-- ══════ TEXTE ANIMÉ — service : readme-typing-svg (demolab) ══════ -->
 <div align="center">
 
-# Hey, moi c'est shizeh 👋
-
-**The only reason why I'm here is because I tried harder than the next man and the next man**
-
-Bots Discord · Web · et en ce moment : un jeu Roblox 🎮
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00BBF9&center=true&vCenter=true&width=600&lines=Bots+Discord+%C2%B7+Web+%C2%B7+Roblox;I+tried+harder+than+the+next+man;Trying+harder)](https://github.com/shizeh)
 
 </div>
 
@@ -12,62 +20,77 @@ Bots Discord · Web · et en ce moment : un jeu Roblox 🎮
 
 ## 🧰 Ma stack
 
+<!-- ══════ ICÔNES — service : skillicons.dev ══════ -->
 <div align="center">
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![Lua](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://luau.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
-[![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/)
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://create.roblox.com/)
+[![Skills](https://skillicons.dev/icons?i=js,lua,html,css,discordjs,git,vscode,vercel&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 📌 Projets à voir
+## 📌 Mes projets
 
-<div align="center">
+<!-- ══════ CARTES FAITES MAIN — service : shields.io (très fiable) ══════ -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![discord-widgets](https://github-readme-stats.vercel.app/api/pin/?username=shizeh&repo=discord-widgets&theme=tokyonight&hide_border=true)](https://github.com/shizeh/discord-widgets)
-[![discord-quests-database](https://github-readme-stats.vercel.app/api/pin/?username=shizeh&repo=discord-quests-database&theme=tokyonight&hide_border=true)](https://github.com/shizeh/discord-quests-database)
+### 🎨 [discord-widgets](https://github.com/shizeh/discord-widgets)
 
-</div>
+Un tutoriel pas-à-pas pour créer un **widget Discord personnalisé**, pensé pour les débutants. 🇫🇷 & 🇬🇧
 
-<!--
-  ─────────────────────────────────────────────────────────────
-  POUR AJOUTER LA CARTE DU TYCOON PLUS TARD :
-  Une fois le repo créé ET public, décommente la ligne ci-dessous
-  en remplaçant NOM_EXACT par le nom exact du repo
-  (attention aux tirets vs underscores, et aux majuscules).
+[![Stars](https://img.shields.io/github/stars/shizeh/discord-widgets?style=for-the-badge&color=9B5DE5&labelColor=1a1b27)](https://github.com/shizeh/discord-widgets/stargazers)
 
-  [![tycoon](https://github-readme-stats.vercel.app/api/pin/?username=shizeh&repo=NOM_EXACT&theme=tokyonight&hide_border=true)](https://github.com/shizeh/NOM_EXACT)
-  ─────────────────────────────────────────────────────────────
--->
+</td>
+<td width="50%" valign="top">
 
----
+### 🗂️ [discord-quests-database](https://github.com/shizeh/discord-quests-database)
 
-## 📊 Mes stats
+Une base de données recensant les **Discord Quests**, maintenue à jour.
 
-<div align="center">
+[![Stars](https://img.shields.io/github/stars/shizeh/discord-quests-database?style=for-the-badge&color=9B5DE5&labelColor=1a1b27)](https://github.com/shizeh/discord-quests-database/stargazers)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=shizeh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800)](https://github.com/shizeh)
-
-[![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=shizeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800)](https://github.com/shizeh?tab=repositories)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
+## 🔥 Ma régularité
+
+<!-- ══════ STREAK — service : demolab.com (CONFIRMÉ OK) ══════ -->
 <div align="center">
 
-*« Je préfère un projet fini et moche qu'un projet parfait jamais commencé. »*
-
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=shizeh&style=for-the-badge&color=blueviolet)](https://github.com/shizeh)
+[![Streak](https://streak-stats.demolab.com?user=shizeh&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/shizeh)
 
 </div>
+
+<!-- ══════ GRAPHE D'ACTIVITÉ — service : github-readme-activity-graph ══════ -->
+<div align="center">
+
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=shizeh&theme=tokyo-night&hide_border=true&area=true&radius=8)](https://github.com/shizeh)
+
+</div>
+
+---
+
+## 🏆 Trophées
+
+<!-- ══════ TROPHÉES — service : github-profile-trophy ══════ -->
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=shizeh&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8)](https://github.com/shizeh)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=shizeh&style=for-the-badge&color=9B5DE5&labelColor=1a1b27&label=VISITEURS)](https://github.com/shizeh)
+
+</div>
+
+<!-- ══════ PIED DE PAGE — service : capsule-render ══════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F15BB5,30:9B5DE5,65:00BBF9,100:00F5D4&height=120&section=footer" />
