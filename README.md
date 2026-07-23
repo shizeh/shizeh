@@ -41,8 +41,8 @@ Bots Discord · Web · et en ce moment : un jeu Roblox 🎮
 
 <div align="center">
 
-[![Discord Widget](https://github-readme-stats.vercel.app/api/pin/?username=shizeh&repo=NOM_DU_REPO_WIDGET&theme=tokyonight&hide_border=true)](https://github.com/shizeh/NOM_DU_REPO_WIDGET)
-[![Roblox Tycoon](https://github-readme-stats.vercel.app/api/pin/?username=shizeh&repo=wispbound-tycoon&theme=tokyonight&hide_border=true)](https://github.com/shizeh/wispbound-tycoon)
+[![Discord Widget](https://github-readme-stats.vercel.app/api/pin/?username=shizeh&repo=NOM_DU_REPO_WIDGET&theme=tokyonight&hide_border=true)](https://github.com/shizeh/discord-widget)
+[![Roblox Tycoon](https://github-readme-stats.vercel.app/api/pin/?username=shizeh&repo=wispbound-tycoon&theme=tokyonight&hide_border=true)](https://github.com/shizeh/roblox_tycoon)
 
 </div>
 
