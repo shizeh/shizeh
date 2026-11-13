@@ -1,86 +1,54 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,35:00BBF9,70:9B5DE5,100:F15BB5&height=180&section=header&text=shizeh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32" />
+<!-- Baptiste Shizeh (shizeh) — développeur français : bots Discord, web, Roblox, applications. Créateur de Trame. --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:2a1f3d&height=110&section=header&text=Baptiste%20Shizeh&fontSize=44&fontColor=ffffff&fontAlignY=55&desc=D%C3%A9veloppeur%20%C2%B7%20Bots%20Discord%20%C2%B7%20Web%20%C2%B7%20Roblox%20%C2%B7%20Applications&descSize=15&descAlignY=82&descAlign=50" width="100%" alt="Baptiste Shizeh, développeur : bots Discord, web, Roblox, applications" />
 
-<div align="center">
+<a href="https://github.com/shizeh"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=900&color=9B5DE5&center=true&vCenter=true&width=520&lines=Je+construis+des+outils+qu%E2%80%99on+a+envie+d%E2%80%99utiliser.;Cr%C3%A9ateur+de+Trame+%E2%80%94+%C3%A9crire+et+mettre+en+page+un+livre.;I+tried+harder+than+the+next+man." alt="Je construis des outils qu’on a envie d’utiliser" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00BBF9&center=true&vCenter=true&width=600&lines=Bots+Discord+%C2%B7+Web+%C2%B7+Roblox;I+tried+harder+than+the+next+man;Trying+harder)](https://github.com/shizeh)
-
-[![Suivre](https://img.shields.io/github/followers/shizeh?style=for-the-badge&logo=github&logoColor=white&label=SUIVRE&color=9B5DE5&labelColor=1a1b27)](https://github.com/shizeh)
-[![Étoiles](https://img.shields.io/github/stars/shizeh?style=for-the-badge&logo=github&logoColor=white&label=%C3%89TOILES&color=00BBF9&labelColor=1a1b27)](https://github.com/shizeh?tab=repositories)
+<a href="https://github.com/shizeh?tab=followers"><img src="https://img.shields.io/github/followers/shizeh?style=flat-square&label=abonn%C3%A9s&color=9B5DE5&labelColor=1a1b27" alt="Abonnés GitHub de Baptiste Shizeh" /></a> <a href="https://github.com/shizeh?tab=repositories"><img src="https://img.shields.io/github/stars/shizeh?style=flat-square&label=%C3%A9toiles&color=9B5DE5&labelColor=1a1b27" alt="Étoiles GitHub de Baptiste Shizeh" /></a> <a href="https://github.com/shizeh/trame-versions/releases/latest"><img src="https://img.shields.io/github/v/release/shizeh/trame-versions?style=flat-square&label=Trame&color=7A2E5C&labelColor=1a1b27" alt="Dernière version de Trame" /></a>
 
 </div>
+À propos
 
----
+Je suis Baptiste Shizeh (shizeh), développeur français autodidacte. Je crée des bots Discord, des sites web, des jeux Roblox et des applications de bureau. J'apprends en construisant, et je partage ce que j'apprends.
 
-## 🧰 Ma stack
+📖 En ce moment : Trame, une application Windows pour écrire un livre et le mettre en page pour l'impression.
+🤖 Bots et outils pour Discord, tutoriels pour débutants.
+🌍 Basé en France · je réponds en français et en anglais.
+Outils
+<p align="center"> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,react,html,css,lua,rust,discordjs,nodejs,git,vscode,vercel&theme=dark&perline=12" alt="Technologies utilisées par Baptiste Shizeh : JavaScript, TypeScript, React, HTML, CSS, Lua, Rust, discord.js, Node.js, Git, VS Code, Vercel" /></a> </p>
+Projets
+<table> <tr> <td width="50%" valign="top">
+📖 Trame
 
-<div align="center">
+Écrire un livre sur de vraies pages, puis obtenir un PDF prêt pour l'imprimeur (BoD, Amazon KDP). Mise en page automatique, typographie française, carnet de l'auteur.
 
-[![Skills](https://skillicons.dev/icons?i=js,lua,html,css,discordjs,git,vscode,vercel&theme=dark&perline=8)](https://skillicons.dev)
+Tauri Rust React TypeScript Typst
 
-</div>
+</td> <td width="50%" valign="top">
+🎨 discord-widgets
 
----
+Un tutoriel pas-à-pas pour créer un widget Discord personnalisé, pensé pour les débutants. 🇫🇷 🇬🇧
 
-## 📌 Mes projets
+HTML CSS JavaScript
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/shizeh/discord-widgets/stargazers"><img src="https://img.shields.io/github/stars/shizeh/discord-widgets?style=flat-square&label=%E2%98%85&color=9B5DE5&labelColor=1a1b27" alt="Étoiles de discord-widgets" /></a>
 
-### 🎨 [discord-widgets](https://github.com/shizeh/discord-widgets)
+</td> </tr> <tr> <td width="50%" valign="top">
+🗂️ discord-quests-database
 
-Un tutoriel pas-à-pas pour créer un **widget Discord personnalisé**, pensé pour les débutants. 🇫🇷 & 🇬🇧
+La base de données des Discord Quests, tenue à jour.
 
-[![Stars](https://img.shields.io/github/stars/shizeh/discord-widgets?style=for-the-badge&color=9B5DE5&labelColor=1a1b27)](https://github.com/shizeh/discord-widgets/stargazers)
+JavaScript JSON
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/shizeh/discord-quests-database/stargazers"><img src="https://img.shields.io/github/stars/shizeh/discord-quests-database?style=flat-square&label=%E2%98%85&color=9B5DE5&labelColor=1a1b27" alt="Étoiles de discord-quests-database" /></a>
 
-### 🗂️ [discord-quests-database](https://github.com/shizeh/discord-quests-database)
+</td> <td width="50%" valign="top">
+➕ Et la suite…
 
-Une base de données recensant les **Discord Quests**, maintenue à jour.
+D'autres projets sont en cours. Suivez-moi pour les voir arriver.
 
-[![Stars](https://img.shields.io/github/stars/shizeh/discord-quests-database?style=for-the-badge&color=9B5DE5&labelColor=1a1b27)](https://github.com/shizeh/discord-quests-database/stargazers)
+<a href="https://github.com/shizeh?tab=repositories"><img src="https://img.shields.io/badge/tous%20mes%20projets-1a1b27?style=flat-square&logo=github&logoColor=white" alt="Tous les projets de Baptiste Shizeh" /></a>
 
-</td>
-</tr>
-</table>
-
----
-
-## 🔥 Ma régularité
-
-<div align="center">
-
-[![Streak](https://streak-stats.demolab.com?user=shizeh&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/shizeh)
-
-</div>
-
-<!-- ══════ GRAPHE D'ACTIVITÉ — service : github-readme-activity-graph ══════ -->
-<div align="center">
-
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=shizeh&theme=tokyo-night&hide_border=true&area=true&radius=8)](https://github.com/shizeh)
-
-</div>
-
----
-
-## 🌐 Me retrouver
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-9B5DE5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baptiste@shizeh.com)
-[![Instagram](https://img.shields.io/badge/Instagram-F15BB5?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/baptisteshizeh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00BBF9?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/shizeh)
-
-</div>
-
----
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=shizeh&style=for-the-badge&color=9B5DE5&labelColor=1a1b27&label=VISITEURS)](https://github.com/shizeh)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F15BB5,30:9B5DE5,65:00BBF9,100:00F5D4&height=120&section=footer" />
+</td> </tr> </table>
+Activité
+<p align="center"> <a href="https://github.com/shizeh"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shizeh&bg_color=0d1117&color=c9d1d9&line=9B5DE5&point=ffffff&area=true&area_color=9B5DE5&hide_border=true&radius=8&height=260" width="100%" alt="Activité GitHub de Baptiste Shizeh" /></a> </p>
+Me contacter
+<p align="center"> <a href="mailto:baptiste@shizeh.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white" alt="Écrire à Baptiste Shizeh" /></a> <a href="https://fr.linkedin.com/in/shizeh"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=white" alt="Baptiste Shizeh sur LinkedIn" /></a> <a href="https://instagram.com/baptisteshizeh"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=white" alt="Baptiste Shizeh sur Instagram" /></a> </p> <p align="center"><sub>Baptiste Shizeh · shizeh · développeur français</sub></p>
