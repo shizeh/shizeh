@@ -48,7 +48,6 @@ D'autres projets sont en cours. Suivez-moi pour les voir arriver.
 <a href="https://github.com/shizeh?tab=repositories"><img src="https://img.shields.io/badge/tous%20mes%20projets-1a1b27?style=flat-square&logo=github&logoColor=white" alt="Tous les projets de Baptiste Shizeh" /></a>
 
 </td> </tr> </table>
-Activité
-<p align="center"> <a href="https://github.com/shizeh"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shizeh&bg_color=0d1117&color=c9d1d9&line=9B5DE5&point=ffffff&area=true&area_color=9B5DE5&hide_border=true&radius=8&height=260" width="100%" alt="Activité GitHub de Baptiste Shizeh" /></a> </p>
+
 Me contacter
 <p align="center"> <a href="mailto:baptiste@shizeh.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white" alt="Écrire à Baptiste Shizeh" /></a> <a href="https://fr.linkedin.com/in/shizeh"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=white" alt="Baptiste Shizeh sur LinkedIn" /></a> <a href="https://instagram.com/baptisteshizeh"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=white" alt="Baptiste Shizeh sur Instagram" /></a> </p> <p align="center"><sub>Baptiste Shizeh · shizeh · développeur français</sub></p>
